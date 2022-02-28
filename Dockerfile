@@ -6,7 +6,7 @@ RUN apt-get install -y --no-install-recommends \
   neofetch \
   ffmpeg \
   wget \
-  libwebp \
+  webmux \
   sudo \
   tesseract-ocr \
   chromium \
