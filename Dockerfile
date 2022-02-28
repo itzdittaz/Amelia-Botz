@@ -6,6 +6,7 @@ RUN apt-get install -y --no-install-recommends \
   neofetch \
   ffmpeg \
   wget \
+  webp \
   sudo \
   tesseract-ocr \
   chromium \
